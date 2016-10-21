@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="35" started-at="2016-10-21T11:02:43Z" finished-at="2016-10-21T11:02:43Z">
+  <suite name="Default suite" duration-ms="33" started-at="2016-10-21T11:09:10Z" finished-at="2016-10-21T11:09:10Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="35" started-at="2016-10-21T11:02:43Z" finished-at="2016-10-21T11:02:43Z">
-      <class name="Problema.Problema.FloatValueTest">
-        <test-method status="PASS" signature="floatObjectToFloat()[pri:0, instance:Problema.Problema.FloatValueTest@e6e9c3]" name="floatObjectToFloat" duration-ms="17" started-at="2016-10-21T13:02:43Z" finished-at="2016-10-21T13:02:43Z">
+    <test name="Default test" duration-ms="33" started-at="2016-10-21T11:09:10Z" finished-at="2016-10-21T11:09:10Z">
+      <class name="Problema.Problema.ToStringTest">
+        <test-method status="PASS" signature="cadenaFloat()[pri:0, instance:Problema.Problema.ToStringTest@e6e9c3]" name="cadenaFloat" duration-ms="16" started-at="2016-10-21T13:09:10Z" finished-at="2016-10-21T13:09:10Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- floatObjectToFloat -->
-        <test-method status="PASS" signature="floatObjectToFloatcoma()[pri:0, instance:Problema.Problema.FloatValueTest@e6e9c3]" name="floatObjectToFloatcoma" duration-ms="1" started-at="2016-10-21T13:02:43Z" finished-at="2016-10-21T13:02:43Z">
+        </test-method> <!-- cadenaFloat -->
+        <test-method status="PASS" signature="cadenaInteger()[pri:0, instance:Problema.Problema.ToStringTest@e6e9c3]" name="cadenaInteger" duration-ms="1" started-at="2016-10-21T13:09:10Z" finished-at="2016-10-21T13:09:10Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- floatObjectToFloatcoma -->
-      </class> <!-- Problema.Problema.FloatValueTest -->
+        </test-method> <!-- cadenaInteger -->
+      </class> <!-- Problema.Problema.ToStringTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -11,5 +11,10 @@ public class ToStringTest {
 	  Assert.assertTrue(aux.equals("16"));
 	 
   }
- 
+  @Test
+  public void cadenaFloat() {
+	  Float i= new Float(16.5);
+	  String aux2=i.toString();
+	  Assert.assertTrue(aux2.equals("16.5"));
+  }
 }
