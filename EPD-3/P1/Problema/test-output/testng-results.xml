@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="34" started-at="2016-10-21T10:53:21Z" finished-at="2016-10-21T10:53:21Z">
+  <suite name="Default suite" duration-ms="35" started-at="2016-10-21T11:02:43Z" finished-at="2016-10-21T11:02:43Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="34" started-at="2016-10-21T10:53:21Z" finished-at="2016-10-21T10:53:21Z">
-      <class name="Problema.Problema.ValueOfTest">
-        <test-method status="PASS" signature="comprobarValorFloat()[pri:0, instance:Problema.Problema.ValueOfTest@e6e9c3]" name="comprobarValorFloat" duration-ms="15" started-at="2016-10-21T12:53:21Z" finished-at="2016-10-21T12:53:21Z">
+    <test name="Default test" duration-ms="35" started-at="2016-10-21T11:02:43Z" finished-at="2016-10-21T11:02:43Z">
+      <class name="Problema.Problema.FloatValueTest">
+        <test-method status="PASS" signature="floatObjectToFloat()[pri:0, instance:Problema.Problema.FloatValueTest@e6e9c3]" name="floatObjectToFloat" duration-ms="17" started-at="2016-10-21T13:02:43Z" finished-at="2016-10-21T13:02:43Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- comprobarValorFloat -->
-        <test-method status="PASS" signature="comprobarValorInt()[pri:0, instance:Problema.Problema.ValueOfTest@e6e9c3]" name="comprobarValorInt" duration-ms="1" started-at="2016-10-21T12:53:21Z" finished-at="2016-10-21T12:53:21Z">
+        </test-method> <!-- floatObjectToFloat -->
+        <test-method status="PASS" signature="floatObjectToFloatcoma()[pri:0, instance:Problema.Problema.FloatValueTest@e6e9c3]" name="floatObjectToFloatcoma" duration-ms="1" started-at="2016-10-21T13:02:43Z" finished-at="2016-10-21T13:02:43Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- comprobarValorInt -->
-      </class> <!-- Problema.Problema.ValueOfTest -->
+        </test-method> <!-- floatObjectToFloatcoma -->
+      </class> <!-- Problema.Problema.FloatValueTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
