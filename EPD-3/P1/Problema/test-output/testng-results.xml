@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="38" started-at="2016-10-21T10:30:55Z" finished-at="2016-10-21T10:30:55Z">
+  <suite name="Default suite" duration-ms="30" started-at="2016-10-21T10:42:03Z" finished-at="2016-10-21T10:42:03Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="38" started-at="2016-10-21T10:30:55Z" finished-at="2016-10-21T10:30:55Z">
-      <class name="Problema.Problema.ParseIntTest">
-        <test-method status="PASS" signature="transformarAInt()[pri:0, instance:Problema.Problema.ParseIntTest@144fc66]" name="transformarAInt" duration-ms="18" started-at="2016-10-21T12:30:55Z" finished-at="2016-10-21T12:30:55Z">
+    <test name="Default test" duration-ms="30" started-at="2016-10-21T10:42:03Z" finished-at="2016-10-21T10:42:03Z">
+      <class name="Problema.Problema.ValueOfTest">
+        <test-method status="PASS" signature="comprobarValorInt()[pri:0, instance:Problema.Problema.ValueOfTest@e6e9c3]" name="comprobarValorInt" duration-ms="16" started-at="2016-10-21T12:42:03Z" finished-at="2016-10-21T12:42:03Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- transformarAInt -->
-      </class> <!-- Problema.Problema.ParseIntTest -->
+        </test-method> <!-- comprobarValorInt -->
+      </class> <!-- Problema.Problema.ValueOfTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
