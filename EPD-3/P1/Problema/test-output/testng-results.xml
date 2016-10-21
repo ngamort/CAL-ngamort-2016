@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="33" started-at="2016-10-21T11:09:10Z" finished-at="2016-10-21T11:09:10Z">
+  <suite name="Default suite" duration-ms="34" started-at="2016-10-21T11:10:30Z" finished-at="2016-10-21T11:10:30Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="33" started-at="2016-10-21T11:09:10Z" finished-at="2016-10-21T11:09:10Z">
-      <class name="Problema.Problema.ToStringTest">
-        <test-method status="PASS" signature="cadenaFloat()[pri:0, instance:Problema.Problema.ToStringTest@e6e9c3]" name="cadenaFloat" duration-ms="16" started-at="2016-10-21T13:09:10Z" finished-at="2016-10-21T13:09:10Z">
+    <test name="Default test" duration-ms="34" started-at="2016-10-21T11:10:30Z" finished-at="2016-10-21T11:10:30Z">
+      <class name="Problema.Problema.ToHexStringTest">
+        <test-method status="PASS" signature="hexadecimalFloat()[pri:0, instance:Problema.Problema.ToHexStringTest@e6e9c3]" name="hexadecimalFloat" duration-ms="18" started-at="2016-10-21T13:10:30Z" finished-at="2016-10-21T13:10:30Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- cadenaFloat -->
-        <test-method status="PASS" signature="cadenaInteger()[pri:0, instance:Problema.Problema.ToStringTest@e6e9c3]" name="cadenaInteger" duration-ms="1" started-at="2016-10-21T13:09:10Z" finished-at="2016-10-21T13:09:10Z">
+        </test-method> <!-- hexadecimalFloat -->
+        <test-method status="PASS" signature="hexadecimalInt()[pri:0, instance:Problema.Problema.ToHexStringTest@e6e9c3]" name="hexadecimalInt" duration-ms="1" started-at="2016-10-21T13:10:30Z" finished-at="2016-10-21T13:10:30Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- cadenaInteger -->
-      </class> <!-- Problema.Problema.ToStringTest -->
+        </test-method> <!-- hexadecimalInt -->
+      </class> <!-- Problema.Problema.ToHexStringTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
