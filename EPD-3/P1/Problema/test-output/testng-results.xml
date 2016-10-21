@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="38" started-at="2016-10-21T10:52:02Z" finished-at="2016-10-21T10:52:02Z">
+  <suite name="Default suite" duration-ms="34" started-at="2016-10-21T10:53:21Z" finished-at="2016-10-21T10:53:21Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="38" started-at="2016-10-21T10:52:02Z" finished-at="2016-10-21T10:52:02Z">
-      <class name="Problema.Problema.ParseFloatTest">
-        <test-method status="PASS" signature="transformarAFloat()[pri:0, instance:Problema.Problema.ParseFloatTest@e6e9c3]" name="transformarAFloat" duration-ms="19" started-at="2016-10-21T12:52:02Z" finished-at="2016-10-21T12:52:02Z">
+    <test name="Default test" duration-ms="34" started-at="2016-10-21T10:53:21Z" finished-at="2016-10-21T10:53:21Z">
+      <class name="Problema.Problema.ValueOfTest">
+        <test-method status="PASS" signature="comprobarValorFloat()[pri:0, instance:Problema.Problema.ValueOfTest@e6e9c3]" name="comprobarValorFloat" duration-ms="15" started-at="2016-10-21T12:53:21Z" finished-at="2016-10-21T12:53:21Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- transformarAFloat -->
-        <test-method status="PASS" signature="transformarAFloatComa()[pri:0, instance:Problema.Problema.ParseFloatTest@e6e9c3]" name="transformarAFloatComa" duration-ms="1" started-at="2016-10-21T12:52:02Z" finished-at="2016-10-21T12:52:02Z">
+        </test-method> <!-- comprobarValorFloat -->
+        <test-method status="PASS" signature="comprobarValorInt()[pri:0, instance:Problema.Problema.ValueOfTest@e6e9c3]" name="comprobarValorInt" duration-ms="1" started-at="2016-10-21T12:53:21Z" finished-at="2016-10-21T12:53:21Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- transformarAFloatComa -->
-      </class> <!-- Problema.Problema.ParseFloatTest -->
+        </test-method> <!-- comprobarValorInt -->
+      </class> <!-- Problema.Problema.ValueOfTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
